@@ -1,3 +1,7 @@
+## About This App
+
+This project was heavily inspired by Youtuber Dev ed https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q I just started using react. This project helped me to understand API. We fetched recipe of items from edamam, anything you want. But the donwside is this is a free api so don't request too many queries or it will throw an error. Wait for few minutes and its good to go again.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
